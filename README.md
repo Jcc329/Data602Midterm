@@ -5,7 +5,7 @@ By <a href="https://github.com/Jcc329">Jessica Conroy Styer</a>
 ## Table of Contents
 
 <ul>
-  <li><b>Data Files</b> - The pre-processed Grad Study data that was used to run the regression analysis as well as the finalized data for the technical notebook</li>
+  <li><a href="https://github.com/Jcc329/Select-the-best-Wine-Predicting-wine-quality/tree/main/Data%20Files">Data Files</a> - The csv file used in the technical report</li>
   <li><b>Notebooks</b> - The Jupyter notebooks used to complete this project</li>
   <ul>
     <li><a href="https://github.com/Jcc329/Select-the-best-Wine-Predicting-wine-quality/blob/main/Jupyter%20Notebooks/Project%201%20Initial%20Data%20Cleaning.ipynb">1. Data Cleaning</a></li> - The notebook showing how the initial data was processed to create the cleaned dataset
