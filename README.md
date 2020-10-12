@@ -35,7 +35,8 @@ As I was considering what data to use for this project, I ran into the Wine qual
 
 ### Data
 
-Data were retrieved from https://archive.ics.uci.edu/ml/datasets/Wine+Quality in the form of two distinct sets, one for red and one for white. 
+Data were retrieved from https://archive.ics.uci.edu/ml/datasets/Wine+Quality in the form of two distinct sets, one for red and one for white. The data consisted of 6,497 rows and 13 columns in total. I added a column for the type of wine (white or red) and the predicted category (Good Wine, Okay Wine, Bad Wine) 
+
 Direct links to the csvs are: 
 - <a href='https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv'>winequality-red.csv</a>
 - <a href="https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv">winequality-white.csv</a>
