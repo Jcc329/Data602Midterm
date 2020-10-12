@@ -9,7 +9,7 @@ By <a href="https://github.com/Jcc329">Jessica Conroy Styer</a>
   <li><b>Notebooks</b> - The Jupyter notebooks used to complete this project</li>
   <ul>
     <li><a href="https://github.com/Jcc329">1. Data Cleaning</a></li> - The notebook showing how the initial data (not available to share) was processed to create the cleaned dataset
-    <li><a href="https://github.com/Jcc329">2. Exploratory Analysis</a> - The notebook containing exploratory analyses </li>
+    <li><a href="https://github.com/Jcc329/Select-the-best-Wine-Predicting-wine-quality/blob/main/Jupyter%20Notebooks/Project%201%20Exploratory%20Analysis.ipynb">2. Exploratory Analysis</a> - The notebook containing exploratory analyses </li>
     <li><a href="https://github.com/Jcc329">3. Technical Report</a> - The technical notebook containing the report and final models used.</li>
   </ul>
   <li><a href="https://github.com/Jcc329/Data602_Project-1-/blob/master/README.md">README.md</a> - An overview of the project and results</li> 
